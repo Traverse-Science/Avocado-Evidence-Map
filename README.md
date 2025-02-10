@@ -2,6 +2,6 @@
 
 Exploring Avocado Consumption and Health: A Scoping Review and Evidence Map\
 Stephen A. Fleming, Tristen L. Paul, Rachel A.F. Fleming, Alison K. Ventura, Megan A. McCrory, Corrie Whisner, Paul A. Spagnuolo, Louise Dye, Jana Kraft, Nikki A. Ford\
-Link to journal: https://doi.org/10.3389/fnut.2025.1488907
+Link to journal: https://doi.org/10.3389/fnut.2025.1488907 \
 Interactive visualization: https://public.tableau.com/views/AvocadoEvidenceMapPublicStory/SEMPublicStory?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link \
 Archive: https://doi.org/10.5281/zenodo.12824840
